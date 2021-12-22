@@ -25,8 +25,8 @@ const dev_config = {
 };
 
 const prod_config = {
-  index: path.resolve(__dirname, `../${settings.packageName}-page-release-${timestamp}/index.html`),
-  assetsRoot: path.resolve(__dirname, `../${settings.packageName}-page-release-${timestamp}`),
+  index: path.resolve(__dirname, `../dist/index.html`),
+  assetsRoot: path.resolve(__dirname, `../dist`),
   assetsSubDirectory: 'resource',
   assetsPublicPath: './'
 };
