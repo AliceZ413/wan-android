@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>图标颜色</title>
+    <desc>Created with Sketch.</desc>
+    <g id="人员信息采集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4A用户库" transform="translate(-340.000000, -203.000000)" fill="#2A4EDF">
+            <path d="M350,203 C355.522847,203 360,207.477153 360,213 C360,218.522847 355.522847,223 350,223 C344.477153,223 340,218.522847 340,213 C340,207.477153 344.477153,203 350,203 Z M354.422754,209.54 L348.823437,215.139317 L346.057538,212.373417 L345,213.430954 L348.118809,216.552019 L348.118809,216.552019 L348.212999,216.635445 C348.605226,216.940551 349.172455,216.912931 349.532914,216.552422 L349.532914,216.552422 L355.485282,210.602528 L354.422754,209.54 Z" id="图标颜色"></path>
+        </g>
+    </g>
+</svg>

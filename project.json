@@ -1,0 +1,10 @@
+{
+  "SYSTEM_NAME": "海王一号",
+  "DESC_SYSTEM_NAME": "项目名称",
+  "CLIENT_PASSWORD": "",
+  "CLIENT_IV": "",
+  "DESC_STATIC": "static配置打包时需要打包进静态资源文件包的文件",
+  "static": {
+    "_favicon": "{ from: path.resolve(__dirname, '../resource/images/favicon.ico'), to: 'resource/images'}"
+  }
+}
